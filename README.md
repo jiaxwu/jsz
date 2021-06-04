@@ -70,8 +70,6 @@ Kubernetes
 
 [Effective Go](https://golang.org/doc/effective_go)
 
-[Go Blog](https://learnku.com/docs/go-blog)
-
 [Gin](https://learnku.com/docs/gin-gonic/2019)
 
 [GORM](https://learnku.com/docs/gorm/v2)
