@@ -66,7 +66,9 @@ Kubernetes
 
 [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang?dt_platform=wechat_friends&dt_dapp=1)
 
-[Effective Go](https://learnku.com/docs/effective-go/2020)
+[Effective Go中文文档](https://learnku.com/docs/effective-go/2020)
+
+[Effective Go](https://golang.org/doc/effective_go)
 
 [Go Blog](https://learnku.com/docs/go-blog)
 
