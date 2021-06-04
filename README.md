@@ -37,6 +37,8 @@ Lombok
 
 Bean Validation
 
+FastJSON
+
 # 中间件
 Redis
 
