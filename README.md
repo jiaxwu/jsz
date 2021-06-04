@@ -64,8 +64,6 @@ Kubernetes
 
 [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 
-[Go Web 编程](https://learnku.com/docs/build-web-application-with-golang?dt_platform=wechat_friends&dt_dapp=1)
-
 [Effective Go中文文档](https://learnku.com/docs/effective-go/2020)
 
 [Effective Go](https://golang.org/doc/effective_go)
@@ -76,7 +74,7 @@ Kubernetes
 
 [Go SQL](https://learnku.com/docs/go-database-sql)
 
-[Go Web编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
+[Go Web编程-astaxie](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 
 [Go专家编程](https://book.douban.com/subject/35144587/)
 
