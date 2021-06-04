@@ -1,4 +1,58 @@
-关注的技术栈
+关注的技术栈or书籍or文档
+
+# Java
+Spring
+
+Spring MVC
+
+Spring Boot
+
+Spring Cloud
+
+Spring Cloud Alibaba
+
+Spring Security
+
+Tomcat 
+
+MyBatis
+
+MyBatis Plus
+
+Netty
+
+Maven
+
+Dubbo
+
+Nacos
+
+Sentinel
+
+Seata
+
+MapStruct
+
+Lombok
+
+Bean Validation
+
+# 中间件
+Redis
+
+MySQL
+
+Docket
+
+RocketMQ
+
+MongoDB
+
+ElasticSearch
+
+Lucene
+
+Nginx
 
 # Go
 
