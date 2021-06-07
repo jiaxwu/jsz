@@ -90,6 +90,8 @@ Kubernetes
 
 [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
+[awesome-go](https://github.com/avelino/awesome-go)
+
 # Vue
 [Vue](https://cn.vuejs.org/)
 
