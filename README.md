@@ -1,5 +1,8 @@
 关注的技术栈or书籍or文档
 
+# 架构
+[分布式基础](https://zhuanlan.zhihu.com/c_1273718607160393728)
+
 # Java
 Spring
 
