@@ -95,6 +95,8 @@ Kubernetes
 
 [awesome-go](https://github.com/avelino/awesome-go)
 
+[go学习路线图](https://pic4.zhimg.com/v2-758313f35251b280d6409516aef8c4a8_r.jpg?source=1940ef5c)
+
 # Vue
 [Vue](https://cn.vuejs.org/)
 
