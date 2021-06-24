@@ -97,6 +97,13 @@ Kubernetes
 
 [go学习路线图](https://pic4.zhimg.com/v2-758313f35251b280d6409516aef8c4a8_r.jpg?source=1940ef5c)
 
+[鸟窝](https://link.zhihu.com/?target=https%3A//colobu.com/categories/Go/)
+
+[Go汇编1](https://chai2010.cn/advanced-go-programming-book/ch3-asm/readme.html)
+[Go汇编2](https://mp.weixin.qq.com/s/2JQM1piaWPQW-uwD_P-3Cg)
+[Go汇编3](https://studygolang.com/articles/22010)
+
+
 # Vue
 [Vue](https://cn.vuejs.org/)
 
