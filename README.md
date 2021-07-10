@@ -161,3 +161,31 @@ Kubernetes
 
 # 工具
 live server(vscode浏览器自动刷新)
+
+Postman(接口测试)
+
+Draw.io(免费的画图软件)
+
+XMind(思维导图)
+
+Typora(Markdown编辑器)
+
+Xshell(ssh客户端)
+
+Navicat(MySQL客户端)
+
+Another Redis Desktop Manager(Redis客户端)
+
+MongoDBCompass(MongoDB客户端)
+
+Idea(JavaIDE)
+
+VSCode(非常好用的前端IDE)
+
+WebStorm(JsIDE)
+
+GoLand(GoIDE)
+
+PyCharm(PythonIDE)
+
+
