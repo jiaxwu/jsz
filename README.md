@@ -81,10 +81,6 @@ Kubernetes
 
 [Effective Go](https://golang.org/doc/effective_go)
 
-[Gin](https://learnku.com/docs/gin-gonic/2019)
-
-[GORM](https://learnku.com/docs/gorm/v2)
-
 [Go SQL](https://learnku.com/docs/go-database-sql)
 
 [Go Web编程-astaxie](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
@@ -112,7 +108,6 @@ Kubernetes
 [Go汇编1](https://chai2010.cn/advanced-go-programming-book/ch3-asm/readme.html)
 [Go汇编2](https://mp.weixin.qq.com/s/2JQM1piaWPQW-uwD_P-3Cg)
 [Go汇编3](https://studygolang.com/articles/22010)
-
 
 # Vue
 [Vue](https://cn.vuejs.org/)
