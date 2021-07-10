@@ -122,8 +122,6 @@ Kubernetes
 
 [Axios](http://www.axios-js.com/)
 
-[Axios](http://www.axios-js.com/)
-
 [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn/)
 
 [Element UI](https://element-plus.gitee.io/#/zh-CN)
