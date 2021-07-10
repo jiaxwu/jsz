@@ -170,6 +170,8 @@ XMind(思维导图)
 
 Typora(Markdown编辑器)
 
+Jmeter(接口性能测试)
+
 Xshell(ssh客户端)
 
 Navicat(MySQL客户端)
@@ -187,5 +189,4 @@ WebStorm(JsIDE)
 GoLand(GoIDE)
 
 PyCharm(PythonIDE)
-
 
