@@ -42,6 +42,10 @@ Bean Validation
 
 FastJSON
 
+Jedis
+
+RedisTemplate
+
 # 中间件
 Redis
 
@@ -53,7 +57,9 @@ RocketMQ
 
 MongoDB
 
-ElasticSearch(Logstash, Kibana)
+ElasticSearch
+
+ELK(ElasticSearch, Logstash, Kibana)
 
 Lucene
 
@@ -61,7 +67,11 @@ Nginx
 
 Kubernetes
 
-# Go
+# [Go](https://golang.google.cn/)
+
+[Gin](https://gin-gonic.com/)
+
+[Gorm](https://gorm.io/)
 
 [Go程序设计语言](https://books.studygolang.com/gopl-zh/)
 
