@@ -75,6 +75,8 @@ Kubernetes
 
 [Gorm](https://gorm.io/)
 
+[etcd](https://etcd.io/docs/v3.5/quickstart/)
+
 [Go程序设计语言](https://books.studygolang.com/gopl-zh/)
 
 [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
