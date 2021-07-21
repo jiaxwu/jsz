@@ -75,6 +75,8 @@ Kubernetes
 
 [Gorm](https://gorm.io/)
 
+[SQLBoiler-最好用的Go ORM框架](https://github.com/volatiletech/sqlboiler)
+
 [etcd](https://etcd.io/docs/v3.5/quickstart/)
 
 [Go程序设计语言](https://books.studygolang.com/gopl-zh/)
