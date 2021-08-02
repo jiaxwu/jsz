@@ -167,6 +167,15 @@ Kubernetes
 
 [Webpack](https://webpack.docschina.org/concepts/)
 
+# 区块链
+[以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+
+[区块链入门教程](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+
+[比特币入门教程](https://www.ruanyifeng.com/blog/2018/01/bitcoin-tutorial.html)
+
+[加密货币的本质](https://www.ruanyifeng.com/blog/2018/01/cryptocurrency-tutorial.html)
+
 # 工具
 live server(vscode浏览器自动刷新)
 
