@@ -73,8 +73,6 @@ Kubernetes
 
 [Gin](https://gin-gonic.com/)
 
-[Gf-企业级框架，可以参考它项目结构](https://github.com/gogf/gf)
-
 [Gorm](https://gorm.io/)
 
 [SQLBoiler-最好用的Go ORM框架](https://github.com/volatiletech/sqlboiler)
@@ -82,20 +80,6 @@ Kubernetes
 [cron-Go 定时任务](https://github.com/robfig/cron)
 
 [etcd](https://etcd.io/docs/v3.5/quickstart/)
-
-[Go程序设计语言](https://books.studygolang.com/gopl-zh/)
-
-[Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
-
-[Effective Go中文文档](https://learnku.com/docs/effective-go/2020)
-
-[Effective Go](https://golang.org/doc/effective_go)
-
-[Go SQL](https://learnku.com/docs/go-database-sql)
-
-[Go Web编程-astaxie](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
-
-[Go专家编程](https://book.douban.com/subject/35144587/)
 
 [The Way To Go](https://book.douban.com/subject/10558892/)
 
@@ -108,8 +92,6 @@ Kubernetes
 [Go语言实战](https://book.douban.com/subject/27015617/)
 
 [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
-
-[awesome-go](https://github.com/avelino/awesome-go)
 
 [go学习路线图](https://pic4.zhimg.com/v2-758313f35251b280d6409516aef8c4a8_r.jpg?source=1940ef5c)
 
