@@ -113,6 +113,8 @@ Kubernetes
 
 [go学习路线图](https://pic4.zhimg.com/v2-758313f35251b280d6409516aef8c4a8_r.jpg?source=1940ef5c)
 
+[Go语言标准库](http://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+
 [鸟窝](https://link.zhihu.com/?target=https%3A//colobu.com/categories/Go/)
 
 [Go汇编1](https://chai2010.cn/advanced-go-programming-book/ch3-asm/readme.html)
