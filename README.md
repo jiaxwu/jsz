@@ -103,6 +103,8 @@ Kubernetes
 [Go汇编2](https://mp.weixin.qq.com/s/2JQM1piaWPQW-uwD_P-3Cg)
 [Go汇编3](https://studygolang.com/articles/22010)
 
+[Gin 反射参数映射验证](https://www.jianshu.com/p/8b307ef6c17e)
+
 # Vue
 [Vue](https://cn.vuejs.org/)
 
