@@ -201,3 +201,4 @@ GoLand(GoIDE)
 
 PyCharm(PythonIDE)
 
+[缩写](https://www.allacronyms.com/)
