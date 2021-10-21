@@ -69,17 +69,39 @@ Nginx
 
 Kubernetes
 
+Minio(https://github.com/minio/minio)
+
 # [Go](https://golang.google.cn/)
 
 [Gin](https://gin-gonic.com/)
 
 [Gorm](https://gorm.io/)
 
-[SQLBoiler-最好用的Go ORM框架](https://github.com/volatiletech/sqlboiler)
+[SQLBoiler](https://github.com/volatiletech/sqlboiler)
 
 [cron-Go 定时任务](https://github.com/robfig/cron)
 
 [etcd](https://etcd.io/docs/v3.5/quickstart/)
+
+[gofakeit 随机库](github.com/brianvoe/gofakeit)
+
+[go-validator](github.com/go-playground/validator)
+
+[go-redis](github.com/go-redis/redis)
+
+[gobwas 偏底层的ws](https://github.com/gobwas/ws)
+
+[Minio-GO](github.com/minio/minio-go)
+
+[decimal](github.com/shopspring/decimal)
+
+[logrus](github.com/sirupsen/logrus)
+
+[viper](github.com/spf13/viper)
+
+[swag](github.com/swaggo/swag)
+
+[sqlparser](github.com/xwb1989/sqlparser)
 
 [The Way To Go](https://book.douban.com/subject/10558892/)
 
