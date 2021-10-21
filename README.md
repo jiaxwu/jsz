@@ -108,7 +108,7 @@ Kubernetes
 [Gin 注解路由，参数绑定框架](https://github.com/xxjwxc/ginrpc)
 
 # Vue
-[Vue](https://cn.vuejs.org/)
+[Vue](https://v3.cn.vuejs.org/guide/introduction.html)
 
 [Vue CLI](https://cli.vuejs.org/zh/)
 
