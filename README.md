@@ -103,6 +103,8 @@ Minio(https://github.com/minio/minio)
 
 [sqlparser](github.com/xwb1989/sqlparser)
 
+[bcrypt 加密库](golang.org/x/crypto)
+
 [The Way To Go](https://book.douban.com/subject/10558892/)
 
 [Go语言学习笔记](https://book.douban.com/subject/26832468/)
