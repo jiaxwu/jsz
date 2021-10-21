@@ -69,7 +69,7 @@ Nginx
 
 Kubernetes
 
-Minio(https://github.com/minio/minio)
+[Minio](https://github.com/minio/minio)
 
 # [Go](https://golang.google.cn/)
 
