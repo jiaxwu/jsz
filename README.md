@@ -146,6 +146,8 @@ Kubernetes
 
 [Element UI](https://element-plus.gitee.io/#/zh-CN)
 
+[Naive UI](https://www.naiveui.com/zh-CN/os-theme)
+
 # React
 
 [React](https://react.docschina.org/)
