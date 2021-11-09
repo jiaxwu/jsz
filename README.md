@@ -123,7 +123,6 @@ RedisTemplate
 
 [Go语言标准库](http://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
 
-[鸟窝](https://link.zhihu.com/?target=https%3A//colobu.com/categories/Go/)
 
 [Go汇编1](https://chai2010.cn/advanced-go-programming-book/ch3-asm/readme.html)
 [Go汇编2](https://mp.weixin.qq.com/s/2JQM1piaWPQW-uwD_P-3Cg)
@@ -237,3 +236,5 @@ PyCharm(PythonIDE)
 
 # 网站
 [芋道源码-后端技术](https://www.iocoder.cn/)
+
+[鸟窝-深入GO](https://link.zhihu.com/?target=https%3A//colobu.com/categories/Go/)
