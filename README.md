@@ -3,6 +3,35 @@
 # 架构
 [分布式基础](https://zhuanlan.zhihu.com/c_1273718607160393728)
 
+# 中间件
+Redis
+
+MySQL
+
+Docket
+
+RocketMQ
+
+Kafka
+
+MongoDB
+
+ElasticSearch
+
+ELK(ElasticSearch, Logstash, Kibana)
+
+Lucene
+
+Nginx
+
+Kubernetes
+
+[ZooKeeper](https://zookeeper.apache.org/)
+
+[etcd](https://etcd.io/)
+
+[Minio](https://github.com/minio/minio)
+
 # Java
 Spring
 
@@ -46,31 +75,6 @@ Jedis
 
 RedisTemplate
 
-# 中间件
-Redis
-
-MySQL
-
-Docket
-
-RocketMQ
-
-Kafka
-
-MongoDB
-
-ElasticSearch
-
-ELK(ElasticSearch, Logstash, Kibana)
-
-Lucene
-
-Nginx
-
-Kubernetes
-
-[Minio](https://github.com/minio/minio)
-
 # [Go](https://golang.google.cn/)
 
 [Gin](https://gin-gonic.com/)
@@ -80,8 +84,6 @@ Kubernetes
 [SQLBoiler](https://github.com/volatiletech/sqlboiler)
 
 [cron-Go 定时任务](https://github.com/robfig/cron)
-
-[etcd](https://etcd.io/docs/v3.5/quickstart/)
 
 [gofakeit 随机库](github.com/brianvoe/gofakeit)
 
@@ -126,10 +128,6 @@ Kubernetes
 [Go汇编1](https://chai2010.cn/advanced-go-programming-book/ch3-asm/readme.html)
 [Go汇编2](https://mp.weixin.qq.com/s/2JQM1piaWPQW-uwD_P-3Cg)
 [Go汇编3](https://studygolang.com/articles/22010)
-
-[Gin 反射参数映射验证](https://www.jianshu.com/p/8b307ef6c17e)
-
-[Gin 注解路由，参数绑定框架](https://github.com/xxjwxc/ginrpc)
 
 # Vue
 [Vue](https://v3.cn.vuejs.org/guide/introduction.html)
