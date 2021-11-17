@@ -81,11 +81,9 @@ RedisTemplate
 
 [Gorm](https://gorm.io/)
 
-[SQLBoiler](https://github.com/volatiletech/sqlboiler)
-
 [cron-Go 定时任务](https://github.com/robfig/cron)
 
-[gofakeit 随机库](github.com/brianvoe/gofakeit)
+[gofakeit 数据生成](github.com/brianvoe/gofakeit)
 
 [go-validator](github.com/go-playground/validator)
 
@@ -95,17 +93,19 @@ RedisTemplate
 
 [Minio-GO](github.com/minio/minio-go)
 
-[decimal](github.com/shopspring/decimal)
+[decimal 金融计算](github.com/shopspring/decimal)
 
-[logrus](github.com/sirupsen/logrus)
+[logrus 日志](github.com/sirupsen/logrus)
 
-[viper](github.com/spf13/viper)
+[viper 配置解析](github.com/spf13/viper)
 
 [swag](github.com/swaggo/swag)
 
 [sqlparser](github.com/xwb1989/sqlparser)
 
 [bcrypt 加密库](golang.org/x/crypto)
+
+[fx 依赖注入](go.uber.org/fx)
 
 [The Way To Go](https://book.douban.com/subject/10558892/)
 
