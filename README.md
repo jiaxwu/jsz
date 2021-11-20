@@ -107,6 +107,12 @@ RedisTemplate
 
 [fx 依赖注入](go.uber.org/fx)
 
+[bolt kv数据库](https://github.com/etcd-io/bbolt)
+
+[storm bolt-orm](https://github.com/asdine/storm)
+
+[hystrix-go 负载均衡](https://github.com/afex/hystrix-go)
+
 [The Way To Go](https://book.douban.com/subject/10558892/)
 
 [Go语言学习笔记](https://book.douban.com/subject/26832468/)
