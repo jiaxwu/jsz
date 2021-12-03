@@ -91,6 +91,8 @@ RedisTemplate
 
 [gobwas 偏底层的ws](https://github.com/gobwas/ws)
 
+[websocket 很好用的ws](github.com/gorilla/websocket)
+
 [Minio-GO](github.com/minio/minio-go)
 
 [decimal 金融计算](github.com/shopspring/decimal)
