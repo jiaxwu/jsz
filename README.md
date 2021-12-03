@@ -113,6 +113,10 @@ RedisTemplate
 
 [hystrix-go 负载均衡](https://github.com/afex/hystrix-go)
 
+[sarama kafka客户端](github.com/Shopify/sarama)
+
+[mongo-driver](go.mongodb.org/mongo-driver)
+
 [The Way To Go](https://book.douban.com/subject/10558892/)
 
 [Go语言学习笔记](https://book.douban.com/subject/26832468/)
