@@ -83,31 +83,31 @@ RedisTemplate
 
 [cron-Go 定时任务](https://github.com/robfig/cron)
 
-[gofakeit 数据生成](github.com/brianvoe/gofakeit)
+[gofakeit 数据生成](https://github.com/brianvoe/gofakeit)
 
-[go-validator](github.com/go-playground/validator)
+[go-validator](https://github.com/go-playground/validator)
 
-[go-redis](github.com/go-redis/redis)
+[go-redis](https://github.com/go-redis/redis)
 
 [gobwas 偏底层的ws](https://github.com/gobwas/ws)
 
 [websocket 很好用的ws](https://github.com/gorilla/websocket)
 
-[Minio-GO](github.com/minio/minio-go)
+[Minio-GO](https://github.com/minio/minio-go)
 
-[decimal 金融计算](github.com/shopspring/decimal)
+[decimal 金融计算](https://github.com/shopspring/decimal)
 
-[logrus 日志](github.com/sirupsen/logrus)
+[logrus 日志](https://github.com/sirupsen/logrus)
 
-[viper 配置解析](github.com/spf13/viper)
+[viper 配置解析](https://github.com/spf13/viper)
 
-[swag](github.com/swaggo/swag)
+[swag](https://github.com/swaggo/swag)
 
-[sqlparser](github.com/xwb1989/sqlparser)
+[sqlparser](https://github.com/xwb1989/sqlparser)
 
-[bcrypt 加密库](golang.org/x/crypto)
+[bcrypt 加密库](https://golang.org/x/crypto)
 
-[fx 依赖注入](go.uber.org/fx)
+[fx 依赖注入](https://go.uber.org/fx)
 
 [bolt kv数据库](https://github.com/etcd-io/bbolt)
 
@@ -115,9 +115,9 @@ RedisTemplate
 
 [hystrix-go 负载均衡](https://github.com/afex/hystrix-go)
 
-[sarama kafka客户端](github.com/Shopify/sarama)
+[sarama kafka客户端](https://github.com/Shopify/sarama)
 
-[mongo-driver](go.mongodb.org/mongo-driver)
+[mongo-driver](https://go.mongodb.org/mongo-driver)
 
 [The Way To Go](https://book.douban.com/subject/10558892/)
 
