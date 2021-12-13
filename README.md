@@ -260,3 +260,5 @@ PyCharm(PythonIDE)
 
 # 文章
 [伪共享](https://www.cnblogs.com/cyfonly/p/5800758.html)
+
+[sync.Pool解析](https://mp.weixin.qq.com/s/u0HZYgPVec9CET5d4wTPbA)
