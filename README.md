@@ -257,3 +257,6 @@ PyCharm(PythonIDE)
 [鸟窝-深入GO](https://link.zhihu.com/?target=https%3A//colobu.com/categories/Go/)
 
 [峰云](http://xiaorui.cc/archives/category/golang)
+
+# 文章
+[伪共享](https://www.cnblogs.com/cyfonly/p/5800758.html)
