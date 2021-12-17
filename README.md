@@ -266,3 +266,5 @@ PyCharm(PythonIDE)
 [sync.Pool解析](https://mp.weixin.qq.com/s/u0HZYgPVec9CET5d4wTPbA)
 
 [Go 反射三定律](https://www.cyub.vip/2020/11/22/Golang%E5%8F%8D%E5%B0%84%E4%B8%89%E5%AE%9A%E5%BE%8B/)
+
+[为什么POST两次请求](https://www.cnblogs.com/mamimi/p/10602722.html)
