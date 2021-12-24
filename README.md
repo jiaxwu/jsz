@@ -137,12 +137,6 @@ RedisTemplate
 
 [dtm](https://github.com/yedf/dtm)
 
-[Go汇编1](https://chai2010.cn/advanced-go-programming-book/ch3-asm/readme.html)
-[Go汇编2](https://mp.weixin.qq.com/s/2JQM1piaWPQW-uwD_P-3Cg)
-[Go汇编3](https://studygolang.com/articles/22010)
-
-[unsafe pointer](https://www.flysnow.org/2017/07/06/go-in-action-unsafe-pointer.html)
-
 # Vue
 [Vue](https://v3.cn.vuejs.org/guide/introduction.html)
 
@@ -266,11 +260,3 @@ PyCharm(PythonIDE)
 
 [Gopher生成器](https://github.com/quasilyte/gopherkon)
 
-# 文章
-[伪共享](https://www.cnblogs.com/cyfonly/p/5800758.html)
-
-[sync.Pool解析](https://mp.weixin.qq.com/s/u0HZYgPVec9CET5d4wTPbA)
-
-[Go 反射三定律](https://www.cyub.vip/2020/11/22/Golang%E5%8F%8D%E5%B0%84%E4%B8%89%E5%AE%9A%E5%BE%8B/)
-
-[为什么POST两次请求](https://www.cnblogs.com/mamimi/p/10602722.html)
