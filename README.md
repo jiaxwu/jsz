@@ -258,6 +258,10 @@ PyCharm(PythonIDE)
 
 [峰云](http://xiaorui.cc/archives/category/golang)
 
+[思维的深度 后端技术](https://skaygo.blog.csdn.net/)
+
+[飞雪无情 后端技术](https://www.flysnow.org/categories/Golang/page/8/)
+
 [Gopher生成器](https://github.com/quasilyte/gopherkon)
 
 # 文章
