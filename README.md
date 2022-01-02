@@ -267,3 +267,9 @@ PyCharm(PythonIDE)
 [字体生成](https://www.qt86.com/single.php)
 
 [代码整理](http://codeinword.com/)
+
+[Go标准库](http://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+
+[Go标准库](https://studygolang.com/pkgdoc)
+
+[Go例子](https://gobyexample.com/)
