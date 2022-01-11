@@ -273,3 +273,13 @@ PyCharm(PythonIDE)
 [Go标准库](https://studygolang.com/pkgdoc)
 
 [Go例子](https://gobyexample.com/)
+
+[正则](https://regex101.com/)
+
+[文件格式转换](https://cloudconvert.com/)
+
+[函数作图](https://www.desmos.com/calculator?lang=zh-CN)
+
+[Linux命令](https://www.linuxcool.com/)
+
+[工具集合](https://tool.lu/)
