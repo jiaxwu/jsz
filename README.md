@@ -283,3 +283,5 @@ PyCharm(PythonIDE)
 [Linux命令](https://www.linuxcool.com/)
 
 [工具集合](https://tool.lu/)
+
+[draveness的博客](https://draveness.me/)
