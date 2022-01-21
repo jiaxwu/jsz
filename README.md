@@ -285,3 +285,7 @@ PyCharm(PythonIDE)
 [工具集合](https://tool.lu/)
 
 [draveness的博客](https://draveness.me/)
+
+[qcrao博客](https://qcrao.com/)
+
+[leetcode-go](https://books.halfrost.com/leetcode/)
