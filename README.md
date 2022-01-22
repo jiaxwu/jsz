@@ -137,6 +137,10 @@ RedisTemplate
 
 [dtm](https://github.com/yedf/dtm)
 
+# 其他语言
+
+[Lua菜鸟教程](https://www.runoob.com/lua/lua-tutorial.html)
+
 # Vue
 [Vue](https://v3.cn.vuejs.org/guide/introduction.html)
 
