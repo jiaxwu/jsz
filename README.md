@@ -293,3 +293,5 @@ PyCharm(PythonIDE)
 [qcrao博客](https://qcrao.com/)
 
 [leetcode-go](https://books.halfrost.com/leetcode/)
+
+[Redis命令集合](https://redis.io/commands#string)
