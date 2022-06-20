@@ -299,3 +299,11 @@ PyCharm(PythonIDE)
 [Redis命令集合](https://redis.io/commands#string)
 
 [MongoDB中文文档](https://www.docs4dev.com/docs/zh/mongodb/v3.6/reference/introduction.html)
+
+# VSCode插件
+- Markdown Preview Enhanced、Markdown All in One：Markdown支持
+- Remote-SSH：远程开发
+- Excel Viewer：Excel预览
+- CMake、CMake Language Support：CMake支持
+- C/C++：C++支持
+- Go：Golang支持
