@@ -305,5 +305,5 @@ PyCharm(PythonIDE)
 - Remote-SSH：远程开发
 - Excel Viewer：Excel预览
 - CMake、CMake Language Support：CMake支持
-- C/C++：C++支持
+- C/C++、C++ Intellisense、C/C++ Themes、Better C++ Syntax：C++支持
 - Go：Golang支持
