@@ -300,6 +300,8 @@ PyCharm(PythonIDE)
 
 [MongoDB中文文档](https://www.docs4dev.com/docs/zh/mongodb/v3.6/reference/introduction.html)
 
+[cplusplus论坛](https://cplusplus.com/forum/beginner/)
+
 # VSCode插件
 - Markdown Preview Enhanced、Markdown All in One：Markdown支持
 - Remote-SSH：远程开发
