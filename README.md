@@ -219,8 +219,6 @@ RedisTemplate
 [加密货币的本质](https://www.ruanyifeng.com/blog/2018/01/cryptocurrency-tutorial.html)
 
 # 工具
-live server(vscode浏览器自动刷新)
-
 Postman(接口测试)
 
 Draw.io(免费的画图软件)
@@ -237,19 +235,23 @@ Navicat(MySQL客户端)
 
 Another Redis Desktop Manager(Redis客户端)
 
+Redisinsight-preview（Redis客户端，支持命令行）
+
 MongoDBCompass(MongoDB客户端)
 
 Idea(JavaIDE)
 
-VSCode(非常好用的前端IDE)
-
-WebStorm(JsIDE)
-
-GoLand(GoIDE)
-
-PyCharm(PythonIDE)
+VSCode(JS、Golang、Python、C++推荐)
 
 [英语单词缩写](https://www.allacronyms.com/)
+
+[7zip压缩](https://www.7-zip.org/)
+
+Offset Explorer（Kafka客户端）
+
+Wireshark(抓包)
+
+微软To Do（很好用的多端Todo工具）
 
 # 网站
 [芋道源码-后端技术](https://www.iocoder.cn/)
@@ -309,3 +311,5 @@ PyCharm(PythonIDE)
 - CMake、CMake Language Support：CMake支持
 - C/C++、C++ Intellisense、C/C++ Themes、Better C++ Syntax：C++支持
 - Go：Golang支持
+
+- live server(vscode浏览器自动刷新)
