@@ -306,6 +306,8 @@ EmEditor(超大文本编辑器)
 
 [cplusplus论坛](https://cplusplus.com/forum/beginner/)
 
+[Pingcap文章](https://pingcap.com/zh/blog)
+
 # VSCode插件
 - Markdown Preview Enhanced、Markdown All in One：Markdown支持
 - Remote-SSH：远程开发
