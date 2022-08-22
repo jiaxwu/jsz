@@ -308,6 +308,8 @@ EmEditor(超大文本编辑器)
 
 [Pingcap文章](https://pingcap.com/zh/blog)
 
+[carbon制作好看的代码图片](https://carbon.now.sh/)
+
 # VSCode插件
 - Markdown Preview Enhanced、Markdown All in One：Markdown支持
 - Remote-SSH：远程开发
