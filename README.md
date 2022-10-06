@@ -312,6 +312,8 @@ EmEditor(超大文本编辑器)
 
 [C++特性支持](https://zh.cppreference.com/w/cpp/compiler_support)
 
+[C++库文档](https://cplusplus.com/reference/fstream/ifstream/)
+
 # VSCode插件
 - Markdown Preview Enhanced、Markdown All in One：Markdown支持
 - Remote-SSH：远程开发
