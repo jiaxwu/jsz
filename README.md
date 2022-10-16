@@ -255,6 +255,8 @@ Wireshark(抓包)
 
 EmEditor(超大文本编辑器)
 
+Windows Terminal(Windows 更好用的终端)
+
 # 网站
 [芋道源码-后端技术](https://www.iocoder.cn/)
 
