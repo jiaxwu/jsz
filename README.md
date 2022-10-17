@@ -316,6 +316,10 @@ Windows Terminal(Windows 更好用的终端)
 
 [C++库文档](https://cplusplus.com/reference/fstream/ifstream/)
 
+[开发软件](https://www.ghxi.com/)
+
+[单词缩写](https://www.allacronyms.com/collection/abbreviated)
+
 # VSCode插件
 - Markdown Preview Enhanced、Markdown All in One：Markdown支持
 - Remote-SSH：远程开发
