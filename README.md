@@ -1,5 +1,18 @@
 关注的技术栈or书籍or文档
 
+# 云原生
+[Kubernetes](https://kubernetes.io/docs/home/)
+
+[Helm](https://helm.sh/docs/)
+
+[Prometheus](https://prometheus.io/docs/introduction/overview/)
+
+[Grafana](https://grafana.com/docs/)
+
+[etcd](https://etcd.io/)
+
+[Istio](https://istio.io/latest/docs/)
+
 # 架构
 [分布式基础](https://zhuanlan.zhihu.com/c_1273718607160393728)
 
@@ -14,6 +27,8 @@ RocketMQ
 
 Kafka
 
+Pulsar
+
 MongoDB
 
 ElasticSearch
@@ -24,11 +39,7 @@ Lucene
 
 Nginx
 
-Kubernetes
-
 [ZooKeeper](https://zookeeper.apache.org/)
-
-[etcd](https://etcd.io/)
 
 [Minio](https://github.com/minio/minio)
 
