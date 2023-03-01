@@ -13,6 +13,8 @@
 
 [Istio](https://istio.io/latest/docs/)
 
+[OpenTelemetry](https://opentelemetry.io/docs/)
+
 # 架构
 [分布式基础](https://zhuanlan.zhihu.com/c_1273718607160393728)
 
