@@ -344,5 +344,5 @@ Windows Terminal(Windows 更好用的终端)
 - Python：Python支持
 - VSCode-proto3：proto支持
 - YAML：yaml支持
-
+- Better TOML：toml支持
 - live server(vscode浏览器自动刷新)
