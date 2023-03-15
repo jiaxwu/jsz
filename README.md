@@ -340,5 +340,9 @@ Windows Terminal(Windows 更好用的终端)
 - CMake、CMake Language Support：CMake支持
 - C/C++、C++ Intellisense、C/C++ Themes、Better C++ Syntax：C++支持
 - Go：Golang支持
+- ShellMan：Shell支持
+- Python：Python支持
+- VSCode-proto3：proto支持
+- YAML：yaml支持
 
 - live server(vscode浏览器自动刷新)
