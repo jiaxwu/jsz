@@ -346,3 +346,4 @@ Windows Terminal(Windows 更好用的终端)
 - YAML：yaml支持
 - Better TOML：toml支持
 - live server(vscode浏览器自动刷新)
+- GitLens — Git supercharged：看代码谁写的
