@@ -338,7 +338,7 @@ Windows Terminal(Windows 更好用的终端)
 - Remote-SSH：远程开发
 - Excel Viewer：Excel预览
 - CMake、CMake Language Support：CMake支持
-- C/C++、C++ Intellisense、C/C++ Themes、Better C++ Syntax：C++支持
+- C/C++、C++ Intellisense、C/C++ Themes、Better C++ Syntax、C/C++ Extension Pack：C++支持
 - Go：Golang支持
 - ShellMan：Shell支持
 - Python：Python支持
