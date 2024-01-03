@@ -173,6 +173,12 @@ RedisTemplate
 
 [Naive UI](https://www.naiveui.com/zh-CN/os-theme)
 
+Vite
+
+Element UI Plus
+
+Pinia
+
 # React
 
 [React](https://react.docschina.org/)
