@@ -15,6 +15,16 @@
 
 [OpenTelemetry](https://opentelemetry.io/docs/)
 
+[Kustomize](https://github.com/kubernetes-sigs/kustomize/tree/master?tab=readme-ov-file)
+
+[ArgoCD](https://github.com/argoproj/argo-cd)
+
+[k3s](https://github.com/k3s-io/k3s)
+
+[Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+
+[terraform](https://github.com/hashicorp/terraform)
+
 # 架构
 [分布式基础](https://zhuanlan.zhihu.com/c_1273718607160393728)
 
