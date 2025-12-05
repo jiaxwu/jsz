@@ -162,6 +162,8 @@ RedisTemplate
 
 [Go 编码建议](https://dablelv.github.io/go-coding-advice/)
 
+[Common Go Patterns for Performance](https://goperf.dev/01-common-patterns/)
+
 # 其他语言
 
 [Lua菜鸟教程](https://www.runoob.com/lua/lua-tutorial.html)
